@@ -4,8 +4,8 @@
 1. Откройте командную строку в проекте с Humanize_calculator.py
 2. Введите:
  
-```python
-python Humanize_calculator.py -s "<Ваша строка>"
+```bash
+$python Humanize_calculator.py -s "<Ваша строка>"
 ```
 
 ### Пример:
@@ -26,6 +26,6 @@ minus two minus minus four plus four
 $pip install pytest
 ```
 Запуск тестов
-```python
-py.test -s -v test.py
+```bash
+$py.test -s -v test.py
 ```
