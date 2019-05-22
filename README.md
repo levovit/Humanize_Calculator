@@ -8,13 +8,15 @@
 python Humanize_calculator.py -s "<Ваша строка>"
 ```
 
-##Пример:
-
-```python
+### Пример:
+Установите pytest если у вас его нет
+```bash
 $python Humanize_calculator.py -s "99 + 7 =  106"
+```
+```python
 ninety nine plus seven equals one hundred six
 ```
-##Чтобы запустить тесты:
+### Чтобы запустить тесты:
 
 Установите pytest если у вас его нет
 ```bash
